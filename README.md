@@ -4,7 +4,7 @@ Bienvenido a la guía para interactuar con la API de Perros 🐶🐶🐶. Este p
 
 URL Base de la API
 
-https://sample-dogs-api.netlify.app/api/v1/
+https://sample-dogs-api.netlify.app/api/v1/dogs/
 
 🐾 Funcionalidades
 
