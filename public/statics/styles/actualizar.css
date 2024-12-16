@@ -1,0 +1,19 @@
+body{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+}
+
+#contenedor{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-bottom: 0;
+}
+img{
+    width: 400px;
+}
+.formulario{
+    justify-content: center;
+    margin: 60px;
+}
